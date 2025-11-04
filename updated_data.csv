@@ -2536,7 +2536,7 @@ NE=50588381,Omer Memon,0,0,14.58,0,100,Huawei,Offline,2025-08-18,residential,0,6
 NE=49728853,Shabbar Khan,0,0,10.01,0,100,Huawei,Zero Output Online,2025-08-18,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,0,39.38,0,100,Huawei,Offline,2025-08-18,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,0,0,0,100,Huawei,Offline,2025-08-18,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,0,0,(divided-value),100,Huawei,Offline,2025-08-18,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,0,0,3.24,100,Huawei,Offline,2025-08-18,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 1195721,Nauman Ul Arfeen,51.4,14.7,16.35,3.14,0,Sungrow,Offline,2025-08-19,residential,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
 1497201,Mujtaba Raza,41,0,21.06,1.95,5.98,Sungrow,Excellent,2025-08-19,residential,1865.5,6:30 pm,Karachi,Sunny,solar_citizen
 1597149,Moiz Ahmed,19.1,0,10.03,1.9,8.03,Sungrow,Excellent,2025-08-19,residential,869.1,6:30 pm,Karachi,Sunny,solar_citizen
@@ -2618,7 +2618,7 @@ NE=49728853,Shabbar Khan,0,0,10.01,0,100,Huawei,Offline,2025-08-19,residential,0
 NE=49786143,Salahuddin Ahmad,0,51.78,19.8,0,100,Huawei,Offline,2025-08-19,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,0,39.38,0,100,Huawei,Offline,2025-08-19,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,0,0,0,100,Huawei,Offline,2025-08-19,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,0,0,(divided-value),100,Huawei,Offline,2025-08-19,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,0,0,3.24,100,Huawei,Offline,2025-08-19,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 1497201,Mujtaba Raza,71.7,0,21.06,3.4,0,Sungrow,Excellent,2025-08-20,residential,3262.3,6:30 pm,Karachi,Sunny,solar_citizen
 1597149,Moiz Ahmed,32.9,0,10.03,3.28,0.6,Sungrow,Excellent,2025-08-20,residential,1497,6:30 pm,Karachi,Sunny,solar_citizen
 1195721,Nauman Ul Arfeen,51.4,14.7,16.35,3.14,4.73,Sungrow,Offline,2025-08-20,residential,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
@@ -2700,7 +2700,7 @@ NE=49786143,Salahuddin Ahmad,0,0,19.8,0,100,Huawei,Offline,2025-08-20,residentia
 NE=50600070,Springs,0,0,39.38,0,100,Huawei,Offline,2025-08-20,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,0,0,0,100,Huawei,Offline,2025-08-20,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,0,99.45,0,100,Huawei,Zero Output Online,2025-08-20,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,0,99.45,(divided-value),100,Huawei,Zero Output Online,2025-08-20,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,0,99.45,3.24,100,Huawei,Zero Output Online,2025-08-20,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 1310804,Muhammad Aslam Jamot,104.5,70.9,23.27,4.49,5.3,Sungrow,Excellent,2025-08-21,residential,4754.8,6:30 pm,Karachi,Sunny,solar_citizen
 1497201,Mujtaba Raza,93.1,0,21.06,4.42,6.78,Sungrow,Excellent,2025-08-21,residential,4236,6:30 pm,Karachi,Sunny,solar_citizen
 1597149,Moiz Ahmed,43.1,0,10.03,4.3,9.39,Sungrow,Excellent,2025-08-21,residential,1961.1,6:30 pm,Karachi,Sunny,solar_citizen
@@ -2783,7 +2783,7 @@ NE=50600070,Springs,0,0,39.38,0,100,Huawei,Offline,2025-08-21,industrial,0,6:30 
 NE=56847564,Al Sheikh Pvt Ltd,0,0,0,0,100,Huawei,Offline,2025-08-21,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,0,99.45,0,100,Huawei,Zero Output Online,2025-08-21,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 60BJ2530535P020,Aqua Pearl,0,0,30.09,0,100,Fox,Zero Output Online,2025-08-21,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
-60BJ2530535P020,Aqua Pearl,0,0,30.09,(divided-value),100,Fox,Zero Output Online,2025-08-21,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
+60BJ2530535P020,Aqua Pearl,0,0,30.09,3.24,100,Fox,Zero Output Online,2025-08-21,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 1310804,Muhammad Aslam Jamot,126,64.2,23.27,5.41,4.4,Sungrow,Excellent,2025-08-22,residential,5733,6:30 pm,Karachi,Sunny,solar_citizen
 1597149,Moiz Ahmed,53.7,0,10.03,5.35,5.48,Sungrow,Excellent,2025-08-22,residential,2443.4,6:30 pm,Karachi,Sunny,solar_citizen
 1497201,Mujtaba Raza,112.1,0,21.06,5.32,6.02,Sungrow,Excellent,2025-08-22,residential,5100.6,6:30 pm,Karachi,Sunny,solar_citizen
@@ -2866,7 +2866,7 @@ NE=50600070,Springs,0,0,39.38,0,100,Huawei,Offline,2025-08-22,industrial,0,6:30 
 NE=56847564,Al Sheikh Pvt Ltd,0,0,0,0,100,Huawei,Offline,2025-08-22,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,0,99.45,0,100,Huawei,Zero Output Online,2025-08-22,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 60BJ2530535P020,Aqua Pearl,0,0,30.09,0,100,Fox,Zero Output Online,2025-08-22,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
-60BJ2530535P020,Aqua Pearl,0,0,30.09,(divided-value),100,Fox,Zero Output Online,2025-08-22,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
+60BJ2530535P020,Aqua Pearl,0,0,30.09,3.24,100,Fox,Zero Output Online,2025-08-22,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 1352473,Taimur Kaleem,55.7,0,19.89,2.8,0,Sungrow,Excellent,2025-08-23,residential,2534.4,6:30 pm,Karachi,Sunny,solar_citizen
 1195721,Nauman Ul Arfeen,51.4,14.7,16.35,3.14,0,Sungrow,Offline,2025-08-23,residential,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
 1561078,Umair Aijaz,43.1,0,15.79,2.73,1.13,Sungrow,Offline,2025-08-23,residential,1961.1,6:30 pm,Karachi,Sunny,solar_citizen
@@ -2949,7 +2949,7 @@ NE=50600070,Springs,0,0,39.38,0,100,Huawei,Offline,2025-08-23,industrial,0,6:30 
 NE=56847564,Al Sheikh Pvt Ltd,0,0,0,0,100,Huawei,Offline,2025-08-23,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,0,99.45,0,100,Huawei,Zero Output Online,2025-08-23,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 60BJ2530535P020,Aqua Pearl,0,0,30.09,0,100,Fox,Zero Output Online,2025-08-23,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
-60BJ2530535P020,Aqua Pearl,0,0,30.09,(divided-value),100,Fox,Zero Output Online,2025-08-23,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
+60BJ2530535P020,Aqua Pearl,0,0,30.09,3.24,100,Fox,Zero Output Online,2025-08-23,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 1352473,Taimur Kaleem,66.1,0,19.89,3.32,0.69,Sungrow,Excellent,2025-08-24,residential,3007.5,6:30 pm,Karachi,Sunny,solar_citizen
 1195721,Nauman Ul Arfeen,51.4,14.7,16.35,3.14,6.06,Sungrow,Offline,2025-08-24,residential,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
 1597149,Moiz Ahmed,31.3,0,10.03,3.12,6.75,Sungrow,Excellent,2025-08-24,residential,1424.2,6:30 pm,Karachi,Sunny,solar_citizen
@@ -3032,7 +3032,7 @@ NE=50600070,Springs,0,0,39.38,0,100,Huawei,Offline,2025-08-24,industrial,0,6:30 
 NE=56847564,Al Sheikh Pvt Ltd,0,0,0,0,100,Huawei,Offline,2025-08-24,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,0,99.45,0,100,Huawei,Zero Output Online,2025-08-24,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 60BJ2530535P020,Aqua Pearl,0,0,30.09,0,100,Fox,Zero Output Online,2025-08-24,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
-60BJ2530535P020,Aqua Pearl,0,0,30.09,(divided-value),100,Fox,Zero Output Online,2025-08-24,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
+60BJ2530535P020,Aqua Pearl,0,0,30.09,3.24,100,Fox,Zero Output Online,2025-08-24,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49709713,Adil But,0,9.92,11.76,0,100,Huawei,Zero Output Online,2025-08-25,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49728853,Shabbar Khan,0,0,10.01,0,100,Huawei,Zero Output Online,2025-08-25,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,0,99.45,0,100,Huawei,Zero Output Online,2025-08-25,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
@@ -3114,7 +3114,7 @@ NE=50588381,Omer Memon,0,0,14.58,0,100,Huawei,Offline,2025-08-25,residential,299
 NE=49786143,Salahuddin Ahmad,62.95,123.22,19.8,3.18,24.89,Huawei,Offline,2025-08-25,residential,2864.2,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,0,39.38,0,100,Huawei,Offline,2025-08-25,industrial,2864.2,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,0,0,0,100,Huawei,Offline,2025-08-25,industrial,2864.2,6:30 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,0,0,(divided-value),100,Huawei,Offline,2025-08-25,industrial,2864.2,6:30 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,0,0,3.24,100,Huawei,Offline,2025-08-25,industrial,2864.2,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49709713,Adil But,0,16.27,11.76,0,100,Huawei,Zero Output Online,2025-08-26,residential,2864.2,5:37 pm,Karachi,Sunny,solar_citizen
 NE=49728853,Shabbar Khan,0,0,10.01,0,100,Huawei,Zero Output Online,2025-08-26,residential,2864.2,5:37 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,0,99.45,0,100,Huawei,Zero Output Online,2025-08-26,industrial,2864.2,5:37 pm,Karachi,Sunny,solar_citizen
@@ -3196,7 +3196,7 @@ NE=50588381,Omer Memon,0,0,14.58,0,100,Huawei,Offline,2025-08-26,residential,655
 NE=49786143,Salahuddin Ahmad,81.84,88.55,19.8,4.13,18.58,Huawei,Offline,2025-08-26,residential,3723.7,5:37 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,0,39.38,0,100,Huawei,Offline,2025-08-26,industrial,3723.7,5:37 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,0,0,0,100,Huawei,Offline,2025-08-26,industrial,3723.7,5:37 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,0,0,(divided-value),100,Huawei,Offline,2025-08-26,industrial,3723.7,5:37 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,0,0,3.24,100,Huawei,Offline,2025-08-26,industrial,3723.7,5:37 pm,Karachi,Sunny,solar_citizen
 NE=49709713,Adil But,0,17.03,11.76,0,100,Huawei,Zero Output Online,2025-08-26,residential,3723.7,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49728853,Shabbar Khan,0,0,10.01,0,100,Huawei,Zero Output Online,2025-08-26,residential,3723.7,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,1.76,65.76,99.45,0.02,99.66,Huawei,Extreme,2025-08-26,industrial,74.6,6:30 pm,Karachi,Sunny,solar_citizen
@@ -3278,7 +3278,7 @@ NE=50588381,Omer Memon,0,0,14.58,0,100,Huawei,Offline,2025-08-26,residential,366
 NE=49786143,Salahuddin Ahmad,82.85,93.71,19.8,4.19,18.72,Huawei,Offline,2025-08-26,residential,3769.7,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,0,39.38,0,100,Huawei,Offline,2025-08-26,industrial,3769.7,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,0,0,0,100,Huawei,Offline,2025-08-26,industrial,3769.7,6:30 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,0,0,(divided-value),100,Huawei,Offline,2025-08-26,industrial,3769.7,6:30 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,0,0,3.24,100,Huawei,Offline,2025-08-26,industrial,3769.7,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49728853,Shabbar Khan,0,0,10.01,0,100,Huawei,Zero Output Online,2025-08-27,residential,3769.7,6:30 pm,Karachi,Sunny,solar_citizen
 1328323,Ali Javeri,45.3,0,24.52,1.85,61.53,Sungrow,High Risk,2025-08-27,residential,2061.2,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,19.2,0,9.84,1.95,59.37,Sungrow,High Risk,2025-08-27,residential,873.6,6:30 pm,Karachi,Sunny,solar_citizen
@@ -3935,7 +3935,7 @@ NE=49786143,Salahuddin Ahmad,78.02,106.17,19.8,3.94,19.62,Huawei,Offline,2025-09
 NE=50600070,Springs,0,0,39.38,0,100,Huawei,Offline,2025-09-02,industrial,3549.9,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,0,0,0,100,Huawei,Offline,2025-09-02,industrial,3549.9,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,382.92,11569.67,99.45,3.85,21.47,Huawei,Offline,2025-09-02,industrial,16235.8,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,382.92,11569.67,99.45,(divided-value),21.47,Huawei,Offline,2025-09-02,industrial,16235.8,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,382.92,11569.67,99.45,3.24,21.47,Huawei,Offline,2025-09-02,industrial,16235.8,6:30 pm,Karachi,Sunny,solar_citizen
 NE=55551454,Makkah Masjid Trust,53.89,160.92,52.63,1.02,81.37,Huawei,Extreme,2025-09-03,residential,2452,6:30 pm,Karachi,Sunny,solar_citizen
 1307163,Najeeb Saad,46.1,160.92,21.8,2.11,61.51,Sungrow,High Risk,2025-09-03,residential,2097.6,6:30 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],47.6,160.92,19.68,2.42,55.98,Sungrow,High Risk,2025-09-03,residential,2165.8,6:30 pm,Karachi,Sunny,solar_citizen
@@ -4017,7 +4017,7 @@ NE=50588381,Omer Memon,0,0,14.58,0,100,Huawei,Offline,2025-09-03,residential,644
 NE=51182086,Saad Zia,0,0,29.7,0,100,Huawei,Offline,2025-09-03,residential,6440.4,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,0,39.38,0,100,Huawei,Offline,2025-09-03,industrial,6440.4,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,0,0,0,100,Huawei,Offline,2025-09-03,industrial,6440.4,6:30 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,0,0,(divided-value),100,Huawei,Offline,2025-09-03,industrial,6440.4,6:30 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,0,0,3.24,100,Huawei,Offline,2025-09-03,industrial,6440.4,6:30 pm,Karachi,Sunny,solar_citizen
 1307163,Najeeb Saad,39.7,0,21.8,1.82,60.07,Sungrow,Critical,2025-09-04,residential,1806.4,3:24 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],38.2,0,19.68,1.94,57.44,Sungrow,Critical,2025-09-04,residential,1738.1,3:24 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,15.1,0,9.84,1.53,66.35,Sungrow,Critical,2025-09-04,residential,687.1,3:24 pm,Karachi,Sunny,solar_citizen
@@ -4099,7 +4099,7 @@ NE=50131311,Dr. Atique,70.94,77.52,40.12,1.77,61.23,Huawei,Offline,2025-09-04,co
 NE=50588381,Omer Memon,0,77.52,14.58,0,100,Huawei,Offline,2025-09-04,residential,4767.2,3:24 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,77.52,39.38,0,100,Huawei,Offline,2025-09-04,industrial,4767.2,3:24 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,77.52,0,0,100,Huawei,Offline,2025-09-04,industrial,4767.2,3:24 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,77.52,0,(divided-value),100,Huawei,Offline,2025-09-04,industrial,4767.2,3:24 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,77.52,0,3.24,100,Huawei,Offline,2025-09-04,industrial,4767.2,3:24 pm,Karachi,Sunny,solar_citizen
 1307163,Najeeb Saad,46.5,77.52,21.8,2.13,59.82,Sungrow,Critical,2025-09-04,residential,2115.8,6:30 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],48.8,77.52,19.68,2.48,53.29,Sungrow,Critical,2025-09-04,residential,2220.4,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,19.3,77.52,9.84,1.96,63.06,Sungrow,Critical,2025-09-04,residential,878.2,6:30 pm,Karachi,Sunny,solar_citizen
@@ -4181,7 +4181,7 @@ NE=50131311,Dr. Atique,157.77,165.16,40.12,3.93,25.93,Huawei,Offline,2025-09-04,
 NE=50588381,Omer Memon,0,165.16,14.58,0,100,Huawei,Offline,2025-09-04,residential,10602.1,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,165.16,39.38,0,100,Huawei,Offline,2025-09-04,industrial,10602.1,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,165.16,0,0,100,Huawei,Offline,2025-09-04,industrial,10602.1,6:30 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,165.16,0,(divided-value),100,Huawei,Offline,2025-09-04,industrial,10602.1,6:30 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,165.16,0,3.24,100,Huawei,Offline,2025-09-04,industrial,10602.1,6:30 pm,Karachi,Sunny,solar_citizen
 1307163,Najeeb Saad,46.9,165.16,21.8,2.15,57.7,Sungrow,Critical,2025-09-05,residential,2134,6:30 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],48.7,165.16,19.68,2.47,51.34,Sungrow,Critical,2025-09-05,residential,2215.9,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,19.8,165.16,9.84,2.01,60.43,Sungrow,Critical,2025-09-05,residential,900.9,6:30 pm,Karachi,Sunny,solar_citizen
@@ -4263,7 +4263,7 @@ NE=50588381,Omer Memon,0,13.94,14.58,0,100,Huawei,Offline,2025-09-05,residential
 NE=51613148,Mohsin Farishta,36.86,13.94,34.34,1.07,78.89,Huawei,Offline,2025-09-05,residential,1677.1,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,13.94,39.38,0,100,Huawei,Offline,2025-09-05,industrial,1677.1,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,13.94,0,0,100,Huawei,Offline,2025-09-05,industrial,1677.1,6:30 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,13.94,0,(divided-value),100,Huawei,Offline,2025-09-05,industrial,1677.1,6:30 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,13.94,0,3.24,100,Huawei,Offline,2025-09-05,industrial,1677.1,6:30 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],47.3,13.94,19.68,2.4,50.56,Sungrow,Critical,2025-09-06,residential,2152.1,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,19.7,13.94,9.84,2,58.82,Sungrow,Critical,2025-09-06,residential,896.4,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50146552,Qamar-e-Bani Hashim,4.87,40.54,49.68,0.1,97.98,Huawei,Critical,2025-09-06,commercial,327.3,6:30 pm,Karachi,Sunny,solar_citizen
@@ -4345,7 +4345,7 @@ NE=51613148,Mohsin Farishta,0,14.7,34.34,0,100,Huawei,Offline,2025-09-06,residen
 NE=55269600,Diamond Enterprises,179.85,209.85,249.6,0.72,85.18,Huawei,Offline,2025-09-06,industrial,7625.6,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,209.85,39.38,0,100,Huawei,Offline,2025-09-06,industrial,7625.6,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,209.85,0,0,100,Huawei,Offline,2025-09-06,industrial,7625.6,6:30 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,209.85,0,(divided-value),100,Huawei,Offline,2025-09-06,industrial,7625.6,6:30 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,209.85,0,3.24,100,Huawei,Offline,2025-09-06,industrial,7625.6,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,13.5,209.85,9.84,1.37,65.16,Sungrow,Critical,2025-09-07,residential,614.3,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50146552,Qamar-e-Bani Hashim,4.09,45.4,49.68,0.08,97.91,Huawei,Critical,2025-09-07,commercial,274.8,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50490570,Saeed Shahzad,31.14,51.14,23.76,1.31,66.72,Huawei,Critical,2025-09-07,residential,1416.9,6:30 pm,Karachi,Sunny,solar_citizen
@@ -4427,7 +4427,7 @@ NE=55269600,Diamond Enterprises,0,14.7,249.6,0,100,Huawei,Offline,2025-09-07,ind
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-09-07,industrial,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-09-07,industrial,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,293.08,3786.95,99.45,2.95,25.17,Huawei,Offline,2025-09-07,industrial,12426.6,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,293.08,3786.95,99.45,(divided-value),25.17,Huawei,Offline,2025-09-07,industrial,12426.6,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,293.08,3786.95,99.45,3.24,25.17,Huawei,Offline,2025-09-07,industrial,12426.6,6:30 pm,Karachi,Sunny,solar_citizen
 1625771,Haider Waheed [10kW],0,3786.95,10.45,0,100,Sungrow,Zero Output,2025-09-08,residential,12426.6,6:30 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],0,3786.95,19.68,0,100,Sungrow,Zero Output,2025-09-08,residential,12426.6,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50490570,Saeed Shahzad,10.8,33.66,23.76,0.45,68.72,Huawei,Critical,2025-09-08,residential,491.4,6:30 pm,Karachi,Sunny,solar_citizen
@@ -4509,7 +4509,7 @@ NE=55269600,Diamond Enterprises,0,3.22,249.6,0,100,Huawei,Offline,2025-09-08,ind
 NE=50600070,Springs,0,3.22,39.38,0,100,Huawei,Offline,2025-09-08,industrial,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,3.22,0,0,100,Huawei,Offline,2025-09-08,industrial,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,3.22,99.45,0,100,Huawei,Offline,2025-09-08,industrial,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,3.22,99.45,(divided-value),100,Huawei,Offline,2025-09-08,industrial,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,3.22,99.45,3.24,100,Huawei,Offline,2025-09-08,industrial,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
 1625771,Haider Waheed [10kW],0,3.22,10.45,0,100,Sungrow,Zero Output,2025-09-09,residential,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],0,3.22,19.68,0,100,Sungrow,Zero Output,2025-09-09,residential,2338.7,6:30 pm,Karachi,Sunny,solar_citizen
 1497201,Mujtaba Raza,2.6,3.22,21.06,0.12,93.25,Sungrow,Critical,2025-09-09,residential,118.3,6:30 pm,Karachi,Sunny,solar_citizen
@@ -4591,7 +4591,7 @@ NE=55269600,Diamond Enterprises,0,14.7,249.6,0,100,Huawei,Offline,2025-09-09,ind
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-09-09,industrial,1927.8,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-09-09,industrial,1927.8,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,14.7,99.45,0,100,Huawei,Offline,2025-09-09,industrial,1927.8,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,14.7,99.45,(divided-value),100,Huawei,Offline,2025-09-09,industrial,1927.8,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,14.7,99.45,3.24,100,Huawei,Offline,2025-09-09,industrial,1927.8,6:30 pm,Karachi,Sunny,solar_citizen
 1625771,Haider Waheed [10kW],0,14.7,10.45,0,100,Sungrow,Zero Output,2025-09-10,residential,1927.8,6:30 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],0,14.7,19.68,0,100,Sungrow,Zero Output,2025-09-10,residential,1927.8,6:30 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,0,14.7,7.67,0,100,Sungrow,Zero Output,2025-09-10,residential,1927.8,6:30 pm,Karachi,Sunny,solar_citizen
@@ -4673,7 +4673,7 @@ NE=57468560,Avicenna School (C118),0.03,6.11,19.89,0,99.93,Huawei,Offline,2025-0
 NE=50600070,Springs,0,6.11,39.38,0,100,Huawei,Offline,2025-09-10,industrial,2,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,6.11,0,0,100,Huawei,Offline,2025-09-10,industrial,2,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,6.11,99.45,0,100,Huawei,Offline,2025-09-10,industrial,2,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,6.11,99.45,(divided-value),100,Huawei,Offline,2025-09-10,industrial,2,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,6.11,99.45,3.24,100,Huawei,Offline,2025-09-10,industrial,2,6:30 pm,Karachi,Sunny,solar_citizen
 1625771,Haider Waheed [10kW],0,6.11,10.45,0,100,Sungrow,Zero Output,2025-09-11,residential,0,10:21 am,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],0,6.11,19.68,0,100,Sungrow,Zero Output,2025-09-11,residential,0,10:21 am,Karachi,Sunny,solar_citizen
 NE=50490570,Saeed Shahzad,4.44,8.23,23.76,0.19,68.36,Huawei,Critical,2025-09-11,residential,202,10:21 am,Karachi,Sunny,solar_citizen
@@ -4755,7 +4755,7 @@ NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-09-11,industrial,0,10
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-09-11,industrial,0,10:21 am,Karachi,Sunny,solar_citizen
 NE=55551454,Makkah Masjid Trust,0,53.27,52.63,0,100,Huawei,Offline,2025-09-11,residential,0,10:21 am,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,53.27,99.45,0,100,Huawei,Offline,2025-09-11,industrial,0,10:21 am,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,53.27,99.45,(divided-value),100,Huawei,Offline,2025-09-11,industrial,0,10:21 am,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,53.27,99.45,3.24,100,Huawei,Offline,2025-09-11,industrial,0,10:21 am,Karachi,Sunny,solar_citizen
 1625771,Haider Waheed [10kW],0,53.27,10.45,0,100,Sungrow,Zero Output,2025-09-11,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],0,53.27,19.68,0,100,Sungrow,Zero Output,2025-09-11,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,17.9,53.27,9.84,1.82,59.35,Sungrow,Critical,2025-09-11,residential,814.4,6:30 pm,Karachi,Sunny,solar_citizen
@@ -4837,7 +4837,7 @@ NE=50343308,Sadiq Iftikhar,0,14.7,19.98,0,100,Huawei,Offline,2025-09-11,resident
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-09-11,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-09-11,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,14.7,99.45,0,100,Huawei,Offline,2025-09-11,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,14.7,99.45,(divided-value),100,Huawei,Offline,2025-09-11,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,14.7,99.45,3.24,100,Huawei,Offline,2025-09-11,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 1625771,Haider Waheed [10kW],0,14.7,10.45,0,100,Sungrow,Zero Output,2025-09-12,residential,0,11:06 am,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],0,14.7,19.68,0,100,Sungrow,Zero Output,2025-09-12,residential,0,11:06 am,Karachi,Sunny,solar_citizen
 1240364,Jubilee Spinning,582,3972,765.4,0.76,51.89,Sungrow,Critical,2025-09-12,industrial,24676.8,11:06 am,Karachi,Sunny,solar_citizen
@@ -4919,7 +4919,7 @@ NE=55269600,Diamond Enterprises,0,14.7,249.6,0,100,Huawei,Offline,2025-09-12,ind
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,14.7,99.45,0,100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,14.7,99.45,(divided-value),100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,14.7,99.45,3.24,100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
 1625771,Haider Waheed [10kW],0,14.7,10.45,0,100,Sungrow,Zero Output,2025-09-12,residential,0,11:06 am,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],0,14.7,19.68,0,100,Sungrow,Zero Output,2025-09-12,residential,0,11:06 am,Karachi,Sunny,solar_citizen
 1240364,Jubilee Spinning,582,3972,765.4,0.76,51.89,Sungrow,Critical,2025-09-12,industrial,24676.8,11:06 am,Karachi,Sunny,solar_citizen
@@ -5001,7 +5001,7 @@ NE=55269600,Diamond Enterprises,0,14.7,249.6,0,100,Huawei,Offline,2025-09-12,ind
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,14.7,99.45,0,100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,14.7,99.45,(divided-value),100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,14.7,99.45,3.24,100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
 1625771,Haider Waheed [10kW],0,14.7,10.45,0,100,Sungrow,Zero Output,2025-09-12,residential,0,11:06 am,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],0,14.7,19.68,0,100,Sungrow,Zero Output,2025-09-12,residential,0,11:06 am,Karachi,Sunny,solar_citizen
 1240364,Jubilee Spinning,582,3972,765.4,0.76,51.89,Sungrow,Critical,2025-09-12,industrial,24676.8,11:06 am,Karachi,Sunny,solar_citizen
@@ -5083,7 +5083,7 @@ NE=55269600,Diamond Enterprises,0,14.7,249.6,0,100,Huawei,Offline,2025-09-12,ind
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,14.7,99.45,0,100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,14.7,99.45,(divided-value),100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,14.7,99.45,3.24,100,Huawei,Offline,2025-09-12,industrial,0,11:06 am,Karachi,Sunny,solar_citizen
 1625771,Haider Waheed [10kW],0,14.7,10.45,0,100,Sungrow,Zero Output,2025-09-12,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],0,14.7,19.68,0,100,Sungrow,Zero Output,2025-09-12,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,18.6,14.7,9.84,1.89,63.4,Sungrow,Critical,2025-09-12,residential,846.3,6:30 pm,Karachi,Sunny,solar_citizen
@@ -5165,7 +5165,7 @@ NE=55269600,Diamond Enterprises,0,26.77,249.6,0,100,Huawei,Offline,2025-09-12,in
 NE=50600070,Springs,0,26.77,39.38,0,100,Huawei,Offline,2025-09-12,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,26.77,0,0,100,Huawei,Offline,2025-09-12,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,26.77,99.45,0,100,Huawei,Offline,2025-09-12,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,26.77,99.45,(divided-value),100,Huawei,Offline,2025-09-12,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,26.77,99.45,3.24,100,Huawei,Offline,2025-09-12,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 1625771,Haider Waheed [10kW],0,26.77,10.45,0,100,Sungrow,Zero Output,2025-09-13,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],0,26.77,19.68,0,100,Sungrow,Zero Output,2025-09-13,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,19.3,26.77,9.84,1.96,67.09,Sungrow,Critical,2025-09-13,residential,878.2,6:30 pm,Karachi,Sunny,solar_citizen
@@ -5247,7 +5247,7 @@ NE=55269600,Diamond Enterprises,0,95.87,249.6,0,100,Huawei,Offline,2025-09-13,in
 NE=50600070,Springs,0,95.87,39.38,0,100,Huawei,Offline,2025-09-13,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,95.87,0,0,100,Huawei,Offline,2025-09-13,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,95.87,99.45,0,100,Huawei,Offline,2025-09-13,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,95.87,99.45,(divided-value),100,Huawei,Offline,2025-09-13,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,95.87,99.45,3.24,100,Huawei,Offline,2025-09-13,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 1625771,Haider Waheed [10kW],0,95.87,10.45,0,100,Sungrow,Zero Output,2025-09-14,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],0,95.87,19.68,0,100,Sungrow,Zero Output,2025-09-14,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1240364,Jubilee Spinning,1520.2,5395.2,765.4,1.99,65.51,Sungrow,Critical,2025-09-14,industrial,64456.5,6:30 pm,Karachi,Sunny,solar_citizen
@@ -5329,7 +5329,7 @@ NE=50588381,Omer Memon,0,14.7,14.58,0,100,Huawei,Offline,2025-09-14,residential,
 NE=55269600,Diamond Enterprises,0,14.7,249.6,0,100,Huawei,Offline,2025-09-14,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-09-14,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-09-14,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,(divided-value),100,Huawei,Offline,2025-09-14,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,3.24,100,Huawei,Offline,2025-09-14,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 1352473,Taimur Kaleem,0,14.7,19.89,0,100,Sungrow,Zero Output,2025-09-15,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,0,14.7,7.67,0,100,Sungrow,Zero Output,2025-09-15,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1625771,Haider Waheed [10kW],0.4,14.7,10.45,0.04,98.77,Sungrow,Critical,2025-09-15,residential,18.2,6:30 pm,Karachi,Sunny,solar_citizen
@@ -5411,7 +5411,7 @@ NE=55269600,Diamond Enterprises,0,14.7,249.6,0,100,Huawei,Offline,2025-09-15,ind
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-09-15,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-09-15,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,34.12,99.45,0,100,Huawei,Offline,2025-09-15,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,34.12,99.45,(divided-value),100,Huawei,Offline,2025-09-15,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,34.12,99.45,3.24,100,Huawei,Offline,2025-09-15,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
 1352473,Taimur Kaleem,0,34.12,19.89,0,100,Sungrow,Zero Output,2025-09-16,residential,0,3:59 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,34.12,99.45,0,100,Huawei,Zero Output,2025-09-16,industrial,0,3:59 pm,Karachi,Sunny,solar_citizen
 NE=50399893,Faizan Faizi,8.54,21.94,11.88,0.72,51,Huawei,Critical,2025-09-16,residential,388.6,3:59 pm,Karachi,Sunny,solar_citizen
@@ -5493,7 +5493,7 @@ NE=50368675,Sahir Ali,20.83,25.24,17.82,1.17,20.33,Huawei,Under performing,2025-
 NE=55342258,Aeon and Trisl,34.27,157.97,30.25,1.13,22.79,Huawei,Under performing,2025-09-16,commercial,2302.9,3:59 pm,Karachi,Sunny,solar_citizen
 NE=49786143,Salahuddin Ahmad,22.54,82.04,19.8,1.14,22.39,Huawei,Under performing,2025-09-16,residential,1025.6,3:59 pm,Karachi,Sunny,solar_citizen
 NE=57468560,Avicenna School (C118),19.65,143.57,19.89,0.99,32.67,Huawei,Under performing,2025-09-16,commercial,1320.5,3:59 pm,Karachi,Sunny,solar_citizen
-NE=57468560,Avicenna School (C118),19.65,143.57,19.89,(divided-value),32.67,Huawei,Under performing,2025-09-16,commercial,1320.5,3:59 pm,Karachi,Sunny,solar_citizen
+NE=57468560,Avicenna School (C118),19.65,143.57,19.89,3.24,32.67,Huawei,Under performing,2025-09-16,commercial,1320.5,3:59 pm,Karachi,Sunny,solar_citizen
 1352473,Taimur Kaleem,0,143.57,19.89,0,100,Sungrow,Zero Output,2025-09-16,residential,0,3:59 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,143.57,99.45,0,100,Huawei,Zero Output,2025-09-16,industrial,0,3:59 pm,Karachi,Sunny,solar_citizen
 NE=50399893,Faizan Faizi,8.54,21.94,11.88,0.72,51,Huawei,Critical,2025-09-16,residential,388.6,3:59 pm,Karachi,Sunny,solar_citizen
@@ -5575,7 +5575,7 @@ NE=50368675,Sahir Ali,20.83,25.24,17.82,1.17,20.33,Huawei,Under performing,2025-
 NE=55342258,Aeon and Trisl,34.27,157.97,30.25,1.13,22.79,Huawei,Under performing,2025-09-16,commercial,2302.9,3:59 pm,Karachi,Sunny,solar_citizen
 NE=49786143,Salahuddin Ahmad,22.54,82.04,19.8,1.14,22.39,Huawei,Under performing,2025-09-16,residential,1025.6,3:59 pm,Karachi,Sunny,solar_citizen
 NE=57468560,Avicenna School (C118),19.65,143.57,19.89,0.99,32.67,Huawei,Under performing,2025-09-16,commercial,1320.5,3:59 pm,Karachi,Sunny,solar_citizen
-NE=57468560,Avicenna School (C118),19.65,143.57,19.89,(divided-value),32.67,Huawei,Under performing,2025-09-16,commercial,1320.5,3:59 pm,Karachi,Sunny,solar_citizen
+NE=57468560,Avicenna School (C118),19.65,143.57,19.89,3.24,32.67,Huawei,Under performing,2025-09-16,commercial,1320.5,3:59 pm,Karachi,Sunny,solar_citizen
 1352473,Taimur Kaleem,0,143.57,19.89,0,100,Sungrow,Zero Output,2025-09-16,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50399893,Faizan Faizi,8.54,21.94,11.88,0.72,57.86,Huawei,Critical,2025-09-16,residential,388.6,6:30 pm,Karachi,Sunny,solar_citizen
 NE=51647028,Air Weapons Complex,17.11,47.87,34.58,0.49,70.99,Huawei,Critical,2025-09-16,commercial,1149.8,6:30 pm,Karachi,Sunny,solar_citizen
@@ -5657,7 +5657,7 @@ NE=50928514,Saad Fayaz,13.03,18.41,9.81,1.33,22.13,Huawei,Under performing,2025-
 NE=50368675,Sahir Ali,23.66,28.86,17.82,1.33,22.16,Huawei,Under performing,2025-09-16,residential,1076.5,6:30 pm,Karachi,Sunny,solar_citizen
 NE=55342258,Aeon and Trisl,40.02,209.59,30.25,1.32,22.44,Huawei,Under performing,2025-09-16,commercial,2689.3,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49786143,Salahuddin Ahmad,26.01,90.32,19.8,1.31,22.97,Huawei,Under performing,2025-09-16,residential,1183.5,6:30 pm,Karachi,Sunny,solar_citizen
-NE=49786143,Salahuddin Ahmad,26.01,90.32,19.8,(divided-value),22.97,Huawei,Under performing,2025-09-16,residential,1183.5,6:30 pm,Karachi,Sunny,solar_citizen
+NE=49786143,Salahuddin Ahmad,26.01,90.32,19.8,3.24,22.97,Huawei,Under performing,2025-09-16,residential,1183.5,6:30 pm,Karachi,Sunny,solar_citizen
 1352473,Taimur Kaleem,0,90.32,19.89,0,100,Sungrow,Zero Output,2025-09-17,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1215686,Zohra Alam,0,90.32,14.8,0,100,Sungrow,Zero Output,2025-09-17,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,18.9,90.32,9.84,1.92,59,Sungrow,Critical,2025-09-17,residential,860,6:30 pm,Karachi,Sunny,solar_citizen
@@ -5739,7 +5739,7 @@ NE=51137454,Ahmed Bugti,91.56,56.56,24.66,3.71,20.75,Huawei,Under performing,202
 NE=50131311,Dr. Atique,125.38,137.21,40.12,3.13,33.29,Huawei,Under performing,2025-09-17,commercial,8425.5,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49709503,Wajiha Maryam Mehdi,18,24.16,5.06,3.56,24.07,Huawei,Under performing,2025-09-17,residential,819,6:30 pm,Karachi,Sunny,solar_citizen
 NE=51184731,Mohsin Ali,60.05,24.16,16.5,3.64,22.32,Huawei,Under performing,2025-09-17,residential,2732.3,6:30 pm,Karachi,Sunny,solar_citizen
-NE=51184731,Mohsin Ali,60.05,24.16,16.5,(divided-value),22.32,Huawei,Under performing,2025-09-17,residential,2732.3,6:30 pm,Karachi,Sunny,solar_citizen
+NE=51184731,Mohsin Ali,60.05,24.16,16.5,3.24,22.32,Huawei,Under performing,2025-09-17,residential,2732.3,6:30 pm,Karachi,Sunny,solar_citizen
 1352473,Taimur Kaleem,0,24.16,19.89,0,100,Sungrow,Zero Output,2025-09-18,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1215686,Zohra Alam,0,24.16,14.8,0,100,Sungrow,Zero Output,2025-09-18,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=55269600,Diamond Enterprises,0,24.16,249.6,0,100,Huawei,Zero Output,2025-09-18,industrial,0,6:30 pm,Karachi,Sunny,solar_citizen
@@ -5821,7 +5821,7 @@ NE=51137454,Ahmed Bugti,91.56,56.56,24.66,3.71,20.75,Huawei,Under performing,202
 NE=50131311,Dr. Atique,125.38,137.21,40.12,3.13,33.29,Huawei,Under performing,2025-09-18,commercial,8425.5,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49709503,Wajiha Maryam Mehdi,18,24.16,5.06,3.56,24.07,Huawei,Under performing,2025-09-18,residential,819,6:30 pm,Karachi,Sunny,solar_citizen
 NE=51184731,Mohsin Ali,60.05,24.16,16.5,3.64,22.32,Huawei,Under performing,2025-09-18,residential,2732.3,6:30 pm,Karachi,Sunny,solar_citizen
-NE=51184731,Mohsin Ali,60.05,24.16,16.5,(divided-value),22.32,Huawei,Under performing,2025-09-18,residential,2732.3,6:30 pm,Karachi,Sunny,solar_citizen
+NE=51184731,Mohsin Ali,60.05,24.16,16.5,3.24,22.32,Huawei,Under performing,2025-09-18,residential,2732.3,6:30 pm,Karachi,Sunny,solar_citizen
 1352473,Taimur Kaleem,0,24.16,19.89,0,100,Sungrow,Zero Output,2025-09-19,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1215686,Zohra Alam,0,24.16,14.8,0,100,Sungrow,Zero Output,2025-09-19,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1625780,Haider Waheed [20kW],47.8,24.16,19.68,2.43,51.73,Sungrow,Critical,2025-09-19,residential,2174.9,6:30 pm,Karachi,Sunny,solar_citizen
@@ -5903,7 +5903,7 @@ NE=56548900,Precision Polymers Pvt. Ltd.,1678.8,3868.26,498,3.37,33.01,Huawei,Un
 NE=49709503,Wajiha Maryam Mehdi,19.52,30.43,5.06,3.86,23.34,Huawei,Under performing,2025-09-19,residential,888.2,6:30 pm,Karachi,Sunny,solar_citizen
 NE=55269600,Diamond Enterprises,887.13,999.85,249.6,3.55,29.37,Huawei,Under performing,2025-09-19,industrial,37614.3,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,371.42,1644.84,99.45,3.73,25.78,Huawei,Under performing,2025-09-19,industrial,15748.2,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,371.42,1644.84,99.45,(divided-value),25.78,Huawei,Under performing,2025-09-19,industrial,15748.2,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,371.42,1644.84,99.45,3.24,25.78,Huawei,Under performing,2025-09-19,industrial,15748.2,6:30 pm,Karachi,Sunny,solar_citizen
 1352473,Taimur Kaleem,0,1644.84,19.89,0,100,Sungrow,Zero Output,2025-09-20,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,0,1644.84,7.67,0,100,Sungrow,Zero Output,2025-09-20,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1215686,Zohra Alam,0,1644.84,14.8,0,100,Sungrow,Zero Output,2025-09-20,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
@@ -5985,7 +5985,7 @@ NE=51184731,Mohsin Ali,51.12,11.22,16.5,3.1,31.32,Huawei,Under performing,2025-0
 NE=50246425,Mir Shabbir Ali Bijarani,119.71,139.39,35.84,3.34,25.97,Huawei,Under performing,2025-09-20,residential,5446.8,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50928514,Saad Fayaz,30.13,139.39,9.81,3.07,31.92,Huawei,Under performing,2025-09-20,residential,1370.9,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,341.45,3859.2,99.45,3.43,23.89,Huawei,Under performing,2025-09-20,industrial,14477.5,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,341.45,3859.2,99.45,(divided-value),23.89,Huawei,Under performing,2025-09-20,industrial,14477.5,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,341.45,3859.2,99.45,3.24,23.89,Huawei,Under performing,2025-09-20,industrial,14477.5,6:30 pm,Karachi,Sunny,solar_citizen
 1215686,Zohra Alam,0,3859.2,14.8,0,100,Sungrow,Zero Output,2025-09-21,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52858953,Asharys,0,42.79,39.24,0,100,Huawei,Zero Output,2025-09-21,commercial,0,6:30 pm,Karachi,Sunny,solar_citizen
 1240364,Jubilee Spinning,851,4280.5,765.4,1.11,78.62,Sungrow,Critical,2025-09-21,industrial,36082.4,6:30 pm,Karachi,Sunny,solar_citizen
@@ -6067,7 +6067,7 @@ NE=56548900,Precision Polymers Pvt. Ltd.,1865.85,1592.82,498,3.75,27.95,Huawei,U
 NE=49709503,Wajiha Maryam Mehdi,19.55,12.55,5.06,3.86,25.7,Huawei,Under performing,2025-09-21,residential,889.5,6:30 pm,Karachi,Sunny,solar_citizen
 NE=55269600,Diamond Enterprises,937.02,412.85,249.6,3.75,27.81,Huawei,Under performing,2025-09-21,industrial,39729.6,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,347.89,3155.64,99.45,3.5,32.73,Huawei,Under performing,2025-09-21,industrial,14750.5,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,347.89,3155.64,99.45,(divided-value),32.73,Huawei,Under performing,2025-09-21,industrial,14750.5,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,347.89,3155.64,99.45,3.24,32.73,Huawei,Under performing,2025-09-21,industrial,14750.5,6:30 pm,Karachi,Sunny,solar_citizen
 1215686,Zohra Alam,0,3155.64,14.8,0,100,Sungrow,Zero Output,2025-09-22,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1208647,Omar Abbasi,8.9,8.9,4.9,1.82,60.74,Sungrow,Critical,2025-09-22,residential,405,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,17.9,8.9,9.84,1.82,60.68,Sungrow,Critical,2025-09-22,residential,814.4,6:30 pm,Karachi,Sunny,solar_citizen
@@ -6149,7 +6149,7 @@ NE=51184731,Mohsin Ali,59.19,23.52,16.5,3.59,22.46,Huawei,Under performing,2025-
 NE=50928514,Saad Fayaz,31.76,23.52,9.81,3.24,30.02,Huawei,Under performing,2025-09-22,residential,1445.1,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49786143,Salahuddin Ahmad,69.87,111.77,19.8,3.53,23.7,Huawei,Under performing,2025-09-22,residential,3179.1,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,306.79,3435.04,99.45,3.08,33.32,Huawei,Under performing,2025-09-22,industrial,13007.9,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,306.79,3435.04,99.45,(divided-value),33.32,Huawei,Under performing,2025-09-22,industrial,13007.9,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,306.79,3435.04,99.45,3.24,33.32,Huawei,Under performing,2025-09-22,industrial,13007.9,6:30 pm,Karachi,Sunny,solar_citizen
 1215686,Zohra Alam,0,3435.04,14.8,0,100,Sungrow,Zero Output,2025-09-23,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,16,3435.04,9.84,1.63,60.83,Sungrow,Critical,2025-09-23,residential,728,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50490570,Saeed Shahzad,26.86,33.11,23.76,1.13,72.77,Huawei,Critical,2025-09-23,residential,1222.1,6:30 pm,Karachi,Sunny,solar_citizen
@@ -6231,7 +6231,7 @@ NE=50246425,Mir Shabbir Ali Bijarani,118.97,128.2,35.84,3.32,20.04,Huawei,Under 
 NE=55269600,Diamond Enterprises,757.66,1493.46,249.6,3.04,26.87,Huawei,Under performing,2025-09-23,industrial,32124.8,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50368675,Sahir Ali,59.04,63.59,17.82,3.31,20.18,Huawei,Under performing,2025-09-23,residential,2686.3,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49786143,Salahuddin Ahmad,61.9,65.75,19.8,3.13,24.67,Huawei,Under performing,2025-09-23,residential,2816.5,6:30 pm,Karachi,Sunny,solar_citizen
-NE=49786143,Salahuddin Ahmad,61.9,65.75,19.8,(divided-value),24.67,Huawei,Under performing,2025-09-23,residential,2816.5,6:30 pm,Karachi,Sunny,solar_citizen
+NE=49786143,Salahuddin Ahmad,61.9,65.75,19.8,3.24,24.67,Huawei,Under performing,2025-09-23,residential,2816.5,6:30 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,0,65.75,7.67,0,100,Sungrow,Zero Output,2025-09-24,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1215686,Zohra Alam,0,65.75,14.8,0,100,Sungrow,Zero Output,2025-09-24,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,7,65.75,9.84,0.71,81.27,Sungrow,Critical,2025-09-24,residential,318.5,6:30 pm,Karachi,Sunny,solar_citizen
@@ -6313,7 +6313,7 @@ NE=50368675,Sahir Ali,44.56,48.64,17.82,2.5,34.15,Huawei,Under performing,2025-0
 NE=55342258,Aeon and Trisl,87.23,225.75,30.25,2.88,24.06,Huawei,Under performing,2025-09-24,commercial,5861.9,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49786143,Salahuddin Ahmad,51.82,85.57,19.8,2.62,31.06,Huawei,Under performing,2025-09-24,residential,2357.8,6:30 pm,Karachi,Sunny,solar_citizen
 NE=51140305,Faysal Kiani,54.03,52.88,17.8,3.04,20.06,Huawei,Under performing,2025-09-24,residential,2458.4,6:30 pm,Karachi,Sunny,solar_citizen
-NE=51140305,Faysal Kiani,54.03,52.88,17.8,(divided-value),20.06,Huawei,Under performing,2025-09-24,residential,2458.4,6:30 pm,Karachi,Sunny,solar_citizen
+NE=51140305,Faysal Kiani,54.03,52.88,17.8,3.24,20.06,Huawei,Under performing,2025-09-24,residential,2458.4,6:30 pm,Karachi,Sunny,solar_citizen
 1215686,Zohra Alam,0,52.88,14.8,0,100,Sungrow,Zero Output,2025-09-25,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,0.1,52.88,7.67,0.01,99.68,Sungrow,Critical,2025-09-25,residential,4.6,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,11,52.88,9.84,1.12,72.41,Sungrow,Critical,2025-09-25,residential,500.5,6:30 pm,Karachi,Sunny,solar_citizen
@@ -6395,7 +6395,7 @@ NE=50246425,Mir Shabbir Ali Bijarani,115.74,143.16,35.84,3.23,20.32,Huawei,Under
 NE=50343308,Sadiq Iftikhar,62.32,143.16,19.98,3.12,23.03,Huawei,Under performing,2025-09-25,residential,2835.6,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50368675,Sahir Ali,55.45,59.16,17.82,3.11,23.21,Huawei,Under performing,2025-09-25,residential,2523,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49786143,Salahuddin Ahmad,57.24,116.99,19.8,2.89,28.64,Huawei,Under performing,2025-09-25,residential,2604.4,6:30 pm,Karachi,Sunny,solar_citizen
-NE=49786143,Salahuddin Ahmad,57.24,116.99,19.8,(divided-value),28.64,Huawei,Under performing,2025-09-25,residential,2604.4,6:30 pm,Karachi,Sunny,solar_citizen
+NE=49786143,Salahuddin Ahmad,57.24,116.99,19.8,3.24,28.64,Huawei,Under performing,2025-09-25,residential,2604.4,6:30 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,2.8,116.99,7.67,0.37,92.65,Sungrow,Critical,2025-09-26,residential,127.4,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,18.4,116.99,9.84,1.87,62.33,Sungrow,Critical,2025-09-26,residential,837.2,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50490570,Saeed Shahzad,36.63,42.58,23.76,1.54,68.94,Huawei,Critical,2025-09-26,residential,1666.7,6:30 pm,Karachi,Sunny,solar_citizen
@@ -6477,7 +6477,7 @@ NE=49709503,Wajiha Maryam Mehdi,18.08,21.95,5.06,3.57,28.01,Huawei,Under perform
 NE=51184731,Mohsin Ali,60.62,21.95,16.5,3.67,25.98,Huawei,Under performing,2025-09-26,residential,2758.2,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50928514,Saad Fayaz,35.28,21.95,9.81,3.6,27.54,Huawei,Under performing,2025-09-26,residential,1605.2,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49786143,Salahuddin Ahmad,75.71,89.07,19.8,3.82,22.94,Huawei,Under performing,2025-09-26,residential,3444.8,6:30 pm,Karachi,Sunny,solar_citizen
-NE=49786143,Salahuddin Ahmad,75.71,89.07,19.8,(divided-value),22.94,Huawei,Under performing,2025-09-26,residential,3444.8,6:30 pm,Karachi,Sunny,solar_citizen
+NE=49786143,Salahuddin Ahmad,75.71,89.07,19.8,3.24,22.94,Huawei,Under performing,2025-09-26,residential,3444.8,6:30 pm,Karachi,Sunny,solar_citizen
 1553796,Sikander Kasim,12.1,89.07,7.08,1.71,68.66,Sungrow,Critical,2025-09-27,residential,550.6,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,18.6,89.07,9.84,1.89,65.34,Sungrow,Critical,2025-09-27,residential,846.3,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50490570,Saeed Shahzad,41.79,31.68,23.76,1.76,67.75,Huawei,Critical,2025-09-27,residential,1901.4,6:30 pm,Karachi,Sunny,solar_citizen
@@ -6559,7 +6559,7 @@ NE=50928514,Saad Fayaz,38.57,12.25,9.81,3.93,27.9,Huawei,Under performing,2025-0
 NE=50343308,Sadiq Iftikhar,87.01,12.25,19.98,4.35,20.14,Huawei,Under performing,2025-09-27,residential,3959,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50368675,Sahir Ali,77.23,81.11,17.82,4.33,20.53,Huawei,Under performing,2025-09-27,residential,3514,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49786143,Salahuddin Ahmad,80.83,91.84,19.8,4.08,25.12,Huawei,Under performing,2025-09-27,residential,3677.8,6:30 pm,Karachi,Sunny,solar_citizen
-NE=49786143,Salahuddin Ahmad,80.83,91.84,19.8,(divided-value),25.12,Huawei,Under performing,2025-09-27,residential,3677.8,6:30 pm,Karachi,Sunny,solar_citizen
+NE=49786143,Salahuddin Ahmad,80.83,91.84,19.8,3.24,25.12,Huawei,Under performing,2025-09-27,residential,3677.8,6:30 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,0,91.84,7.67,0,100,Sungrow,Zero Output,2025-09-28,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1240364,Jubilee Spinning,1369.2,5353.7,765.4,1.79,64.27,Sungrow,Critical,2025-09-28,industrial,58054.1,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,18.4,5353.7,9.84,1.87,62.65,Sungrow,Critical,2025-09-28,residential,837.2,6:30 pm,Karachi,Sunny,solar_citizen
@@ -6641,7 +6641,7 @@ NE=49709503,Wajiha Maryam Mehdi,19.1,10.55,5.06,3.77,24.6,Huawei,Under performin
 NE=51184731,Mohsin Ali,64.31,10.55,16.5,3.9,22.15,Huawei,Under performing,2025-09-28,residential,2926.1,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50928514,Saad Fayaz,35.96,10.55,9.81,3.67,26.78,Huawei,Under performing,2025-09-28,residential,1636.2,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49786143,Salahuddin Ahmad,73.87,87.98,19.8,3.73,25.46,Huawei,Under performing,2025-09-28,residential,3361.1,6:30 pm,Karachi,Sunny,solar_citizen
-NE=49786143,Salahuddin Ahmad,73.87,87.98,19.8,(divided-value),25.46,Huawei,Under performing,2025-09-28,residential,3361.1,6:30 pm,Karachi,Sunny,solar_citizen
+NE=49786143,Salahuddin Ahmad,73.87,87.98,19.8,3.24,25.46,Huawei,Under performing,2025-09-28,residential,3361.1,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49709713,Adil But,0,25.5,11.76,0,100,Huawei,Zero Output,2025-09-29,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,18.1,25.5,9.84,1.84,54.05,Sungrow,Critical,2025-09-29,residential,823.6,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50490570,Saeed Shahzad,29.44,42.09,23.76,1.24,69.05,Huawei,Critical,2025-09-29,residential,1339.5,6:30 pm,Karachi,Sunny,solar_citizen
@@ -6723,7 +6723,7 @@ NE=49709503,Wajiha Maryam Mehdi,14.45,27.11,5.06,2.86,28.66,Huawei,Under perform
 NE=51184731,Mohsin Ali,49.1,27.11,16.5,2.98,25.66,Huawei,Under performing,2025-09-29,residential,2234.1,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50928514,Saad Fayaz,29.93,27.11,9.81,3.05,23.78,Huawei,Under performing,2025-09-29,residential,1361.8,6:30 pm,Karachi,Sunny,solar_citizen
 NE=49786143,Salahuddin Ahmad,57.55,70.19,19.8,2.91,27.37,Huawei,Under performing,2025-09-29,residential,2618.5,6:30 pm,Karachi,Sunny,solar_citizen
-NE=49786143,Salahuddin Ahmad,57.55,70.19,19.8,(divided-value),27.37,Huawei,Under performing,2025-09-29,residential,2618.5,6:30 pm,Karachi,Sunny,solar_citizen
+NE=49786143,Salahuddin Ahmad,57.55,70.19,19.8,3.24,27.37,Huawei,Under performing,2025-09-29,residential,2618.5,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,16.3,70.19,9.84,1.66,59.08,Sungrow,Critical,2025-09-30,residential,741.7,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50131311,Dr. Atique,72.16,132.68,40.12,1.8,55.57,Huawei,Critical,2025-09-30,commercial,4849.2,6:30 pm,Karachi,Sunny,solar_citizen
 NE=51647028,Air Weapons Complex,39.83,124.81,34.58,1.15,71.55,Huawei,Critical,2025-09-30,commercial,2676.6,6:30 pm,Karachi,Sunny,solar_citizen
@@ -6805,7 +6805,7 @@ NE=50588381,Omer Memon,44.58,49.19,14.58,3.06,24.47,Huawei,Under performing,2025
 NE=50928514,Saad Fayaz,28.31,49.19,9.81,2.89,28.71,Huawei,Under performing,2025-09-30,residential,1288.1,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50343308,Sadiq Iftikhar,59.97,49.19,19.98,3,25.85,Huawei,Under performing,2025-09-30,residential,2728.6,6:30 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,297.29,4041.67,99.45,2.99,26.16,Huawei,Under performing,2025-09-30,industrial,12605.1,6:30 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,297.29,4041.67,99.45,(divided-value),26.16,Huawei,Under performing,2025-09-30,industrial,12605.1,6:30 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,297.29,4041.67,99.45,3.24,26.16,Huawei,Under performing,2025-09-30,industrial,12605.1,6:30 pm,Karachi,Sunny,solar_citizen
 1206067,Imran Hanif,0,4041.67,9.9,0,100,Sungrow,Zero Output,2025-10-01,residential,0,10:54 am,Karachi,Sunny,solar_citizen
 NE=50447754,Ehtesham Ali,0,19.01,14.58,0,100,Huawei,Zero Output,2025-10-01,residential,0,10:22 am,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,5.9,19.01,9.84,0.6,60.69,Sungrow,Critical,2025-10-01,residential,268.5,10:54 am,Karachi,Sunny,solar_citizen
@@ -6887,7 +6887,7 @@ NE=51137454,Ahmed Bugti,0,14.7,24.66,0,100,Huawei,Offline,2025-10-01,commercial,
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-10-01,commercial,0,10:22 am,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-10-01,residential,0,10:22 am,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,0,14.7,99.45,0,100,Huawei,Offline,2025-10-01,industrial,0,10:22 am,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,0,14.7,99.45,(divided-value),100,Huawei,Offline,2025-10-01,industrial,0,10:22 am,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,0,14.7,99.45,3.24,100,Huawei,Offline,2025-10-01,industrial,0,10:22 am,Karachi,Sunny,solar_citizen
 1206067,Imran Hanif,0,14.7,9.9,0,100,Sungrow,Zero Output,2025-10-01,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50447754,Ehtesham Ali,0,27.87,14.58,0,100,Huawei,Zero Output,2025-10-01,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,18.2,27.87,9.84,1.85,65.17,Sungrow,Critical,2025-10-01,residential,828.1,6:30 pm,Karachi,Sunny,solar_citizen
@@ -6969,7 +6969,7 @@ NE=56548900,Precision Polymers Pvt. Ltd.,644.17,708.14,498,1.29,75.64,Huawei,Off
 NE=54947138,Noor Garments,305.68,708.14,117,2.61,50.8,Huawei,Offline,2025-10-01,industrial,12960.8,6:25 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,708.14,39.38,0,100,Huawei,Offline,2025-10-01,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,708.14,0,0,100,Huawei,Offline,2025-10-01,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,708.14,0,(divided-value),100,Huawei,Offline,2025-10-01,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,708.14,0,3.24,100,Huawei,Offline,2025-10-01,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,18.7,708.14,9.84,1.9,61.75,Sungrow,Critical,2025-10-02,residential,850.9,6:30 pm,Karachi,Sunny,solar_citizen
 NE=51647028,Air Weapons Complex,54.77,121.65,34.58,1.58,68.12,Huawei,Critical,2025-10-02,commercial,3680.5,6:25 pm,Karachi,Sunny,solar_citizen
 NE=55551454,Makkah Masjid Trust,60.48,199.34,52.64,1.15,76.87,Huawei,Critical,2025-10-02,commercial,4064.3,6:25 pm,Karachi,Sunny,solar_citizen
@@ -7051,7 +7051,7 @@ NE=51137454,Ahmed Bugti,0,14.7,24.66,0,100,Huawei,Offline,2025-10-02,commercial,
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-10-02,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-10-02,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,396.89,1607.77,99.45,3.99,19.67,Huawei,Offline,2025-10-02,industrial,16828.1,6:25 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,396.89,1607.77,99.45,(divided-value),19.67,Huawei,Offline,2025-10-02,industrial,16828.1,6:25 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,396.89,1607.77,99.45,3.24,19.67,Huawei,Offline,2025-10-02,industrial,16828.1,6:25 pm,Karachi,Sunny,solar_citizen
 1485524,Rubab Zehra,0,22.4,10.12,0,100,Sungrow,Zero Output,2025-10-03,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,0,22.4,7.67,0,100,Sungrow,Zero Output,2025-10-03,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=51647028,Air Weapons Complex,32.97,123.76,34.58,0.95,72.06,Huawei,Critical,2025-10-03,commercial,2215.6,6:25 pm,Karachi,Sunny,solar_citizen
@@ -7133,7 +7133,7 @@ NE=49786143,Salahuddin Ahmad,0,4.42,19.8,0,100,Huawei,Offline,2025-10-03,residen
 NE=50600070,Springs,0,4.42,39.38,0,100,Huawei,Offline,2025-10-03,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,4.42,0,0,100,Huawei,Offline,2025-10-03,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,244.77,2078.65,99.45,2.46,27.87,Huawei,Offline,2025-10-03,industrial,10378.2,6:25 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,244.77,2078.65,99.45,(divided-value),27.87,Huawei,Offline,2025-10-03,industrial,10378.2,6:25 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,244.77,2078.65,99.45,3.24,27.87,Huawei,Offline,2025-10-03,industrial,10378.2,6:25 pm,Karachi,Sunny,solar_citizen
 1485524,Rubab Zehra,0,27.2,10.12,0,100,Sungrow,Zero Output,2025-10-04,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,17.6,27.2,9.84,1.79,63.96,Sungrow,Critical,2025-10-04,residential,800.8,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50807506,Mujtaba Pirwani,18.23,17.45,10.08,1.81,63.56,Huawei,Critical,2025-10-04,residential,829.5,6:25 pm,Karachi,Sunny,solar_citizen
@@ -7215,7 +7215,7 @@ NE=49786143,Salahuddin Ahmad,0,14.7,19.8,0,100,Huawei,Offline,2025-10-04,residen
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-10-04,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-10-04,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,394.61,3900.99,99.45,3.97,20.05,Huawei,Offline,2025-10-04,industrial,16731.5,6:25 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,394.61,3900.99,99.45,(divided-value),20.05,Huawei,Offline,2025-10-04,industrial,16731.5,6:25 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,394.61,3900.99,99.45,3.24,20.05,Huawei,Offline,2025-10-04,industrial,16731.5,6:25 pm,Karachi,Sunny,solar_citizen
 1485524,Rubab Zehra,0,22,10.12,0,100,Sungrow,Zero Output,2025-10-05,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50807506,Mujtaba Pirwani,0,22,10.08,0,100,Huawei,Zero Output,2025-10-05,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 1240364,Jubilee Spinning,1271.7,5567.2,765.4,1.66,67.89,Sungrow,Critical,2025-10-05,industrial,53920.1,6:30 pm,Karachi,Sunny,solar_citizen
@@ -7297,7 +7297,7 @@ NE=49786143,Salahuddin Ahmad,0,14.7,19.8,0,100,Huawei,Offline,2025-10-05,residen
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-10-05,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-10-05,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,387.48,2146.73,99.45,3.9,24.69,Huawei,Offline,2025-10-05,industrial,16429.2,6:25 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,387.48,2146.73,99.45,(divided-value),24.69,Huawei,Offline,2025-10-05,industrial,16429.2,6:25 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,387.48,2146.73,99.45,3.24,24.69,Huawei,Offline,2025-10-05,industrial,16429.2,6:25 pm,Karachi,Sunny,solar_citizen
 1485524,Rubab Zehra,0,25.1,10.12,0,100,Sungrow,Zero Output,2025-10-06,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50588381,Omer Memon,0,27.98,14.58,0,100,Huawei,Zero Output,2025-10-06,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,18.9,27.98,9.84,1.92,62.84,Sungrow,Critical,2025-10-06,residential,860,6:30 pm,Karachi,Sunny,solar_citizen
@@ -7379,7 +7379,7 @@ NE=49786143,Salahuddin Ahmad,0,14.7,19.8,0,100,Huawei,Offline,2025-10-06,residen
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-10-06,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-10-06,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,399.94,2649.07,99.45,4.02,22.21,Huawei,Offline,2025-10-06,industrial,16957.5,6:25 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,399.94,2649.07,99.45,(divided-value),22.21,Huawei,Offline,2025-10-06,industrial,16957.5,6:25 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,399.94,2649.07,99.45,3.24,22.21,Huawei,Offline,2025-10-06,industrial,16957.5,6:25 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,0,2649.07,7.67,0,100,Sungrow,Zero Output,2025-10-07,residential,0,3:41 pm,Karachi,Sunny,solar_citizen
 NE=50588381,Omer Memon,0,20.75,14.58,0,100,Huawei,Zero Output,2025-10-07,residential,0,3:39 pm,Karachi,Sunny,solar_citizen
 1231654,Shahid Khan,74.4,16,19.8,3.76,85.32,Sungrow,Critical,2025-10-07,residential,3385.2,3:41 pm,Karachi,Sunny,solar_citizen
@@ -7472,7 +7472,7 @@ NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-10-07,residenti
 NE=52457425,Aqua Pearl,339.63,1181.39,99.45,3.42,86.65,Huawei,Offline,2025-10-07,industrial,14400.3,3:39 pm,Karachi,Sunny,solar_citizen
 1298491919449290926,Imtiaz Vazeer,38.6,38.6,6.07,6.36,75.15,Solis,Offline,2025-10-07,residential,1756.3,6:45 pm,Karachi,Sunny,solar_citizen
 1298491919450031288,Ghulam Muhammad Fahad,11.1,15.59,0.91,12.2,52.33,Solis,Offline,2025-10-07,residential,505.1,6:45 pm,Karachi,Sunny,solar_citizen
-1298491919450031288,Ghulam Muhammad Fahad,11.1,15.59,0.91,(divided-value),52.33,Solis,Offline,2025-10-07,residential,505.1,6:45 pm,Karachi,Sunny,solar_citizen
+1298491919450031288,Ghulam Muhammad Fahad,11.1,15.59,0.91,3.24,52.33,Solis,Offline,2025-10-07,residential,505.1,6:45 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,0,15.59,7.67,0,100,Sungrow,Zero Output,2025-10-07,residential,0,3:41 pm,Karachi,Sunny,solar_citizen
 NE=50588381,Omer Memon,0,20.75,14.58,0,100,Huawei,Zero Output,2025-10-07,residential,0,3:39 pm,Karachi,Sunny,solar_citizen
 1231654,Shahid Khan,74.4,16,19.8,3.76,85.32,Sungrow,Critical,2025-10-07,residential,3385.2,3:41 pm,Karachi,Sunny,solar_citizen
@@ -7565,7 +7565,7 @@ NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-10-07,residenti
 NE=52457425,Aqua Pearl,339.63,1181.39,99.45,3.42,86.65,Huawei,Offline,2025-10-07,industrial,14400.3,3:39 pm,Karachi,Sunny,solar_citizen
 1298491919449290926,Imtiaz Vazeer,38.6,38.6,6.07,6.36,75.15,Solis,Offline,2025-10-07,residential,1756.3,6:45 pm,Karachi,Sunny,solar_citizen
 1298491919450031288,Ghulam Muhammad Fahad,11.1,15.59,0.91,12.2,52.33,Solis,Offline,2025-10-07,residential,505.1,6:45 pm,Karachi,Sunny,solar_citizen
-1298491919450031288,Ghulam Muhammad Fahad,11.1,15.59,0.91,(divided-value),52.33,Solis,Offline,2025-10-07,residential,505.1,6:45 pm,Karachi,Sunny,solar_citizen
+1298491919450031288,Ghulam Muhammad Fahad,11.1,15.59,0.91,3.24,52.33,Solis,Offline,2025-10-07,residential,505.1,6:45 pm,Karachi,Sunny,solar_citizen
 1485524,Rubab Zehra,0,19.4,10.12,0,100,Sungrow,Zero Output,2025-10-07,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,0,19.4,7.67,0,100,Sungrow,Zero Output,2025-10-07,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50588381,Omer Memon,0,21.48,14.58,0,100,Huawei,Zero Output,2025-10-07,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
@@ -7647,7 +7647,7 @@ NE=51137454,Ahmed Bugti,0,14.7,24.66,0,100,Huawei,Offline,2025-10-07,commercial,
 NE=49786143,Salahuddin Ahmad,0,14.7,19.8,0,100,Huawei,Offline,2025-10-07,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-10-07,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-10-07,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,(divided-value),100,Huawei,Offline,2025-10-07,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,3.24,100,Huawei,Offline,2025-10-07,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=50588381,Omer Memon,0,19.21,14.58,0,100,Huawei,Zero Output,2025-10-08,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 1328323,Ali Javeri,2.7,19.21,24.52,0.11,97.67,Sungrow,Critical,2025-10-08,commercial,181.4,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50368573,Aslam Khaliq,14.91,16.51,14.85,1,78.77,Huawei,Critical,2025-10-08,residential,678.4,6:25 pm,Karachi,Sunny,solar_citizen
@@ -7729,7 +7729,7 @@ NE=51613148,Mohsin Farishta,71.92,14.7,34.34,2.09,55.71,Huawei,Offline,2025-10-0
 NE=49786143,Salahuddin Ahmad,0,14.7,19.8,0,100,Huawei,Offline,2025-10-08,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-10-08,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-10-08,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,(divided-value),100,Huawei,Offline,2025-10-08,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,3.24,100,Huawei,Offline,2025-10-08,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,0,14.7,7.67,0,100,Sungrow,Zero Output,2025-10-09,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,0,14.7,9.84,0,100,Sungrow,Zero Output,2025-10-09,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50588381,Omer Memon,0,24.87,14.58,0,100,Huawei,Zero Output,2025-10-09,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
@@ -7813,7 +7813,7 @@ NE=49786143,Salahuddin Ahmad,0,17.89,19.8,0,100,Huawei,Offline,2025-10-09,reside
 NE=50600070,Springs,0,17.89,39.38,0,100,Huawei,Offline,2025-10-09,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,17.89,0,0,100,Huawei,Offline,2025-10-09,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=52457425,Aqua Pearl,216.84,1519.11,99.45,2.18,54.41,Huawei,Offline,2025-10-09,industrial,9194,6:25 pm,Karachi,Sunny,solar_citizen
-NE=52457425,Aqua Pearl,216.84,1519.11,99.45,(divided-value),54.41,Huawei,Offline,2025-10-09,industrial,9194,6:25 pm,Karachi,Sunny,solar_citizen
+NE=52457425,Aqua Pearl,216.84,1519.11,99.45,3.24,54.41,Huawei,Offline,2025-10-09,industrial,9194,6:25 pm,Karachi,Sunny,solar_citizen
 1207292,Zia Akhtar Rizvi,0,1519.11,7.67,0,100,Sungrow,Zero Output,2025-10-10,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50588381,Omer Memon,0,18.09,14.58,0,100,Huawei,Zero Output,2025-10-10,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 1334120,Paul Textile,470.7,362.7,304.57,1.55,67.21,Sungrow,Critical,2025-10-10,industrial,19957.7,6:30 pm,Karachi,Sunny,solar_citizen
@@ -7897,7 +7897,7 @@ NE=49786143,Salahuddin Ahmad,0,14.7,19.8,0,100,Huawei,Offline,2025-10-10,residen
 NE=57468560,Avicenna School (C118),92.51,151.67,19.89,4.65,1.32,Huawei,Offline,2025-10-10,residential,4209.2,6:25 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,151.67,39.38,0,100,Huawei,Offline,2025-10-10,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,151.67,0,0,100,Huawei,Offline,2025-10-10,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,151.67,0,(divided-value),100,Huawei,Offline,2025-10-10,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,151.67,0,3.24,100,Huawei,Offline,2025-10-10,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=50588381,Omer Memon,0,17.91,14.58,0,100,Huawei,Zero Output,2025-10-11,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=55551454,Makkah Masjid Trust,48.43,158.15,52.64,0.92,80.21,Huawei,Critical,2025-10-11,commercial,3254.5,6:25 pm,Karachi,Sunny,solar_citizen
 7fb6c2e6-688a-4a69-aa2d-23ff1b550ec6,Freyan Avari,61.6,158.15,31.09,1.98,57.38,fox,Critical,2025-10-11,commercial,4139.5,6:50 pm,Karachi,Sunny,solar_citizen
@@ -7981,7 +7981,7 @@ NE=49786143,Salahuddin Ahmad,0,839.45,19.8,0,100,Huawei,Offline,2025-10-11,resid
 NE=57468560,Avicenna School (C118),95.36,24.42,19.89,4.79,0,Huawei,Offline,2025-10-11,residential,4338.9,6:25 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,24.42,39.38,0,100,Huawei,Offline,2025-10-11,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,24.42,0,0,100,Huawei,Offline,2025-10-11,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,24.42,0,(divided-value),100,Huawei,Offline,2025-10-11,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,24.42,0,3.24,100,Huawei,Offline,2025-10-11,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=50588381,Omer Memon,0,34.74,14.58,0,100,Huawei,Zero Output,2025-10-12,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 1240364,Jubilee Spinning,398.6,4188.6,765.4,0.52,88.76,Sungrow,Critical,2025-10-12,industrial,16900.6,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50490570,Saeed Shahzad,38.02,35.32,23.76,1.6,65.47,Huawei,Critical,2025-10-12,commercial,2554.9,6:25 pm,Karachi,Sunny,solar_citizen
@@ -8065,7 +8065,7 @@ NE=51009967,Fahad Kundi,0,14.7,20.5,0,100,Huawei,Offline,2025-10-12,commercial,0
 NE=49786143,Salahuddin Ahmad,0,14.7,19.8,0,100,Huawei,Offline,2025-10-12,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-10-12,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-10-12,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,(divided-value),100,Huawei,Offline,2025-10-12,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,3.24,100,Huawei,Offline,2025-10-12,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 1626352,Abdul Hameed Baig,0,14.7,9.84,0,100,Sungrow,Zero Output,2025-10-13,residential,0,6:30 pm,Karachi,Sunny,solar_citizen
 NE=50588381,Omer Memon,0,26.21,14.58,0,100,Huawei,Zero Output,2025-10-13,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=49771840,Rizwan Farooq,14.19,26.21,11.55,1.23,73.37,Huawei,Critical,2025-10-13,residential,645.6,6:25 pm,Karachi,Sunny,solar_citizen
@@ -8149,7 +8149,7 @@ NE=51009967,Fahad Kundi,0,14.7,20.5,0,100,Huawei,Offline,2025-10-13,commercial,0
 NE=49786143,Salahuddin Ahmad,0,14.7,19.8,0,100,Huawei,Offline,2025-10-13,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=50600070,Springs,0,14.7,39.38,0,100,Huawei,Offline,2025-10-13,commercial,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,0,100,Huawei,Offline,2025-10-13,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
-NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,(divided-value),100,Huawei,Offline,2025-10-13,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
+NE=56847564,Al Sheikh Pvt Ltd,0,14.7,0,3.24,100,Huawei,Offline,2025-10-13,residential,0,6:25 pm,Karachi,Sunny,solar_citizen
 NE=50588381,Omer Memon,0,26.34,14.58,0,100,Huawei,Zero Output,14-10-2025,Huawei,67.8,10:09 pm,Karachi,Sunny,solar_citizen
 NE=50333662,Ali Akbar,0,26.34,7.49,0,100,Huawei,Zero Output,14-10-2025,Huawei,34.83,10:09 pm,Karachi,Sunny,solar_citizen
 NE=55551454,Makkah Masjid Trust,43.6,211.21,52.64,0.828,82.19,Huawei,Critical,14-10-2025,Huawei,201.15,10:09 pm,Karachi,Sunny,solar_citizen
